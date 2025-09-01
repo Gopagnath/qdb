@@ -1,0 +1,32 @@
+[
+    { "id": 1, "userId": 1, "title": "Aarav’s First Post", "body": "Excited to start blogging! This is Aarav’s first post." },
+    { "id": 2, "userId": 1, "title": "Travel Diaries", "body": "Aarav shares his recent trip to Manali and the beautiful mountains." },
+  
+    { "id": 3, "userId": 2, "title": "Diya’s Thoughts", "body": "Diya writes about balancing work and personal life." },
+    { "id": 4, "userId": 2, "title": "Favorite Recipes", "body": "Diya shares some easy Indian vegetarian recipes." },
+  
+    { "id": 5, "userId": 3, "title": "Tech Talk by Rohan", "body": "Rohan explains the basics of React hooks." },
+    { "id": 6, "userId": 3, "title": "Fitness Journey", "body": "Rohan talks about his experience starting gym workouts." },
+  
+    { "id": 7, "userId": 4, "title": "Isha’s Book Review", "body": "Isha reviews her favorite novel from 2024." },
+    { "id": 8, "userId": 4, "title": "Photography Tips", "body": "Isha shares tips for mobile photography enthusiasts." },
+  
+    { "id": 9, "userId": 5, "title": "Karan on Startups", "body": "Karan writes about his journey building a small startup." },
+    { "id": 10, "userId": 5, "title": "Productivity Hacks", "body": "Karan lists his top tools for staying productive." },
+  
+    { "id": 11, "userId": 6, "title": "Meera’s Travel Blog", "body": "Meera shares experiences from her Kerala backwaters trip." },
+    { "id": 12, "userId": 6, "title": "Healthy Living", "body": "Meera writes about yoga and meditation practices." },
+  
+    { "id": 13, "userId": 7, "title": "Aditya’s Coding Tips", "body": "Aditya explains how to write clean JavaScript code." },
+    { "id": 14, "userId": 7, "title": "Stock Market Basics", "body": "Aditya introduces stock market investing for beginners." },
+  
+    { "id": 15, "userId": 8, "title": "Sneha’s Food Blog", "body": "Sneha shares her love for South Indian breakfast dishes." },
+    { "id": 16, "userId": 8, "title": "Minimalism Lifestyle", "body": "Sneha talks about living with less and decluttering." },
+  
+    { "id": 17, "userId": 9, "title": "Arjun’s Fitness Blog", "body": "Arjun shares his top exercises for strength training." },
+    { "id": 18, "userId": 9, "title": "Cricket Love", "body": "Arjun writes about his passion for cricket and his favorite players." },
+  
+    { "id": 19, "userId": 10, "title": "Priya’s Fashion Diary", "body": "Priya talks about latest trends in Indian ethnic wear." },
+    { "id": 20, "userId": 10, "title": "Mental Health Awareness", "body": "Priya writes about the importance of self-care and mindfulness." }
+  ]
+  

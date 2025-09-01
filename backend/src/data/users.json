@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Aarav Sharma", "email": "aarav.sharma@example.com", "username": "aarav01" },
+    { "id": 2, "name": "Diya Patel", "email": "diya.patel@example.com", "username": "diyap" },
+    { "id": 3, "name": "Rohan Mehta", "email": "rohan.mehta@example.com", "username": "rohanm" },
+    { "id": 4, "name": "Isha Reddy", "email": "isha.reddy@example.com", "username": "ishar" },
+    { "id": 5, "name": "Karan Gupta", "email": "karan.gupta@example.com", "username": "karang" },
+    { "id": 6, "name": "Meera Nair", "email": "meera.nair@example.com", "username": "meeran" },
+    { "id": 7, "name": "Aditya Verma", "email": "aditya.verma@example.com", "username": "adityav" },
+    { "id": 8, "name": "Sneha Iyer", "email": "sneha.iyer@example.com", "username": "snehai" },
+    { "id": 9, "name": "Arjun Singh", "email": "arjun.singh@example.com", "username": "arjuns" },
+    { "id": 10, "name": "Priya Das", "email": "priya.das@example.com", "username": "priyad" }
+  ]
+  
